@@ -1,5 +1,5 @@
 ## Hi I'm Vincent!
-
+I am a current freshman student at UCLA majoring in Statistics & Data Science! I am interested in sports analytics, machine learning, and healthcare!
 <!--
 **VincentAquino/VincentAquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
